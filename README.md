@@ -1,7 +1,5 @@
 # Christian's "Cheat-Sheets"
 
-[![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://youtu.be/apgp9egIKK8)
-
 **Hey, there!**
 
 **I’m Christian, and I’m passionate about creating educational tech content for IT Pros and Homelab nerds.**
